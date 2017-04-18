@@ -1,7 +1,7 @@
 
 # see: https://github.com/gogits/gogs/blob/v0.9.97/Dockerfile
 
-FROM gogs/gogs:0.9.97
+FROM gogs/gogs:0.9.141
 
 ARG build_fileserver
 
